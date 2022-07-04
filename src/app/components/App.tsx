@@ -33,7 +33,7 @@ const App = ({}) => {
     return (
         <div>
             <img src={require('../assets/logo.svg')} />
-            <h2>Rectangle Creator</h2>
+            <h2>PELLES PLUGIN</h2>
             <p>
                 Count: <input ref={countRef} />
             </p>
